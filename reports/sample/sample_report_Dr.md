@@ -1,4 +1,8 @@
-# Pacific Informatics Gene Panel DNA-sequence variant analysis
+# Pacific Informatics<br> Gene Panel DNA-sequence variant analysis
+
+**PHYSICIAN VERSION**
+
+---
 
 ## Table of Contents
 - [Pacific Informatics Gene Panel DNA-sequence variant analysis](#pacific-informatics-gene-panel-dna-sequence-variant-analysis)
@@ -11,8 +15,6 @@
 ## Sample report
 
 ***Date: April 28<sup>th</sup>***
-
-
 
 ## Genes Assayed
 
