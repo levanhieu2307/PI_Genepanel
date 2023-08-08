@@ -16,13 +16,13 @@
 
 ***Date: April 28<sup>th</sup> 2023***
 
-## Genes Assayed
+### Genes Assayed
 
 **Genes Assayed for the Detection of DNA Sequence Variants**
 
 >MPL, NRAS, RET, PTEN, FGFR2, HRAS, ATM, KRAS, PTPN11, HNF1A, FLT3 ,BRCA2, RB1, AKT1, IDH2, TSC2, CDH1, TP53, ERBB2, BRCA1, SMAD4, STK11, GNA11, JAK3, ALK, IDH1, ERBB4, SRC, GNAS, SMARCB1, VHL, MLH1, CTNNB1, PIK3CA, FGFR3, PDGFRA, KIT, KDR, FBXW7, APC, CSF1R, NPM1, EGFR, MET, SMO, BRAF, EZH2, FGFR1, JAK2, CDKN2A, GNAQ, ABL1, NOTCH1.
 
-## Relevant Variant Details
+### Relevant Variant Details
 
 | Gene | Amino Acid Change | Coding | Variant Type | Allele Frequency | Transcrpit | Variant effect | ClinVar Significance |
 | --- | --- | --- | --- | --- | --- | --- | --- |
